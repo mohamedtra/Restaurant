@@ -29,11 +29,11 @@ cd Client && npm install && npm run serve
 
 ## Repartition du travail 
 
-# Mohamed TRAORE : 50% -
+# Mohamed TRAORE : 50% 
 * Des composant **custom**
 * Affichage detaille d'un restaurant (photo  + carte menu detaille)
 
-# Samy AYED : 50% ->
+# Samy AYED : 50%
 * Affichage du menu d'un restaurant
 * Affichage recapitulatif commande : facture
 
